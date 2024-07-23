@@ -13,7 +13,7 @@ This coding quiz consists of a Playwright automation script task.
 
 3. **Completing the Task:**
    - Open the cloned repository in your preferred code editor.
-   - Complete the task within 60 minutes, following the provided instructions.
+   - Complete the task within 180 minutes, following the provided instructions.
    - Write the Playwright automation script according to the task description.
    - Generate the HTML test report after completing the script.
 
